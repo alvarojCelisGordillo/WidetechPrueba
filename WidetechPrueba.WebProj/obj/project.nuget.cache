@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3IEOtoh2n9wjIGcCN9oDxBMGJP9G267WMkWlbpqJvWrBz6J8ktt4NXd3DefccAcLe5DE5kmp87vm/D4rqOnZoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nelly\\source\\repos\\WidetechPrueba\\WidetechPrueba.WebProj\\WidetechPrueba.WebProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nelly\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Data.dll.config
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Data.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Data.pdb
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\EntityFramework.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\EntityFramework.SqlServer.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Core.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Core.pdb
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\WidetechPrueba.Core.dll.config
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\EntityFramework.xml
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\bin\EntityFramework.SqlServer.xml
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\obj\Debug\WidetechPrueba.Data.csproj.AssemblyReference.cache
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\obj\Debug\WidetechPrueba.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\obj\Debug\WidetechPrueba.Data.csproj.CopyComplete
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\obj\Debug\WidetechPrueba.Data.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Data\obj\Debug\WidetechPrueba.Data.pdb

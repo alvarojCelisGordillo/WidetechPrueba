@@ -1,0 +1,16 @@
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Contracts.dll.config
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Contracts.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Contracts.pdb
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Data.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\EntityFramework.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Core.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Data.pdb
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Data.dll.config
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\EntityFramework.xml
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Core.pdb
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\bin\WidetechPrueba.Core.dll.config
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\obj\Debug\WidetechPrueba.Contracts.csproj.AssemblyReference.cache
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\obj\Debug\WidetechPrueba.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\obj\Debug\WidetechPrueba.Contracts.csproj.CopyComplete
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\obj\Debug\WidetechPrueba.Contracts.dll
+C:\Users\Nelly\source\repos\WidetechPrueba\WidetechPrueba.Contracts\obj\Debug\WidetechPrueba.Contracts.pdb
